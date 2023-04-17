@@ -1,0 +1,11 @@
+body{background-color: darkslateblue;}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+citation{
+    font-family: monospace;
+    font-size:  1em
+}
+#intro{
+    font-style: oblique;
+}
