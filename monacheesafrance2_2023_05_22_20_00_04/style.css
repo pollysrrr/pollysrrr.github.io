@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+
+}
+
+#bg{
+width: 630px;
+  height:435px;
+    position:absolute;
+  z-index:2;
+  top:90px;
+  left:80px;
+}
+
+#frame{
+  width:800px;
+  height:1000px;
+  position:absolute;
+  z-index:1;
+ 
+}
+
+#div1{
+  width: 200px;
+  height:300px;
+   position: absolute;
+  z-index:3;
+top:100px;
+  left:180px;
+}
