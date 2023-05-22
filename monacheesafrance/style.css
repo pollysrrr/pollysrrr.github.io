@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+
+}
+
+#bg{
+  width:50%;
+    position:absolute;
+  z-index:2;
+  top:60px;
+  left:60px;
+}
+
+#frame{
+  width:60%;
+  position:absolute;
+  z-index:1;
+  top:0px;
+  left:0px;
+}
+
+#div1{
+ 
+    position:absolute;
+  z-index:3;
+  top:-20px;
+  left:50px;
+}
